@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6ad0779-c931-440b-ac00-2e0c250ad3bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/DemoQAPractiseFormTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LetsKodeItTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-img/nopcommerce-task-part-2.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +71,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LetsKodeItTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LocatorsWebElRadBtnDropdnExplWaitExercises" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LetsKodeItTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NavigationCommandsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LocatorsWebElRadBtnDropdnExplWaitExercises" />
       <option name="PACKAGE_NAME" value="" />
@@ -90,23 +98,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NopCommerceTest.successfulTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LocatorsWebElRadBtnDropdnExplWaitExercises" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NopCommerceTest" />
-      <option name="METHOD_NAME" value="successfulTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.DemoQAPractiseFormTest" />
+        <item itemvalue="JUnit.LetsKodeItTest" />
         <item itemvalue="JUnit.DemoQAPractiseFormTest.successfulTest" />
         <item itemvalue="JUnit.NavigationCommandsTest" />
         <item itemvalue="JUnit.NopCommerceTest" />
-        <item itemvalue="JUnit.NopCommerceTest.successfulTest" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +121,7 @@
       <workItem from="1713478643481" duration="1644000" />
       <workItem from="1713515241742" duration="13460000" />
       <workItem from="1713549940164" duration="4451000" />
-      <workItem from="1713599418774" duration="4018000" />
+      <workItem from="1713599418774" duration="7783000" />
     </task>
     <servers />
   </component>
