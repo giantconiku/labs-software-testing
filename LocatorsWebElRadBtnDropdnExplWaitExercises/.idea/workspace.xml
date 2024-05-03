@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6ad0779-c931-440b-ac00-2e0c250ad3bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LetsKodeItTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentoringAutomation" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +43,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/University/Second Semester of Master/TEST/LAB/Lab 4/Java Classes&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/University/Second Semester of Master/WEB/DETYRA/Cafe-Managment-System&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -121,7 +122,14 @@
       <workItem from="1713478643481" duration="1644000" />
       <workItem from="1713515241742" duration="13460000" />
       <workItem from="1713549940164" duration="4451000" />
-      <workItem from="1713599418774" duration="7783000" />
+      <workItem from="1713599418774" duration="8302000" />
+      <workItem from="1713612710503" duration="590000" />
+      <workItem from="1713699041949" duration="48000" />
+      <workItem from="1714065730829" duration="979000" />
+      <workItem from="1714135636863" duration="107000" />
+      <workItem from="1714315867874" duration="2558000" />
+      <workItem from="1714664786194" duration="830000" />
+      <workItem from="1714754110620" duration="1844000" />
     </task>
     <servers />
   </component>

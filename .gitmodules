@@ -1,0 +1,3 @@
+[submodule "POMDesignPatternExercises"]
+	path = MentoringAutomation
+	url = https://github.com/danielplaku/MentoringAutomation.git
