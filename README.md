@@ -34,3 +34,8 @@
 
      🟢 Created 'LocatorsWebElRadBtnDropdnExplWaitExercises' Java Project 
          with Maven that contains the solutions for 4 Exercises
+
+### `Lab 5` - Selenium POM (Page Object Model) Design Pattern
+
+     🟢 Added 'MentoringAutomation' Java Project as a submodule that contains 
+         the solutions for 2 Exercises
